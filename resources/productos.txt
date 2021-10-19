@@ -1,0 +1,14 @@
+[
+  {
+    "title": "prueba",
+    "price": "1212",
+    "thumbnail": "lalala.com",
+    "id": 1
+  },
+  {
+    "title": "prueba",
+    "price": "1212",
+    "thumbnail": "lalala.com",
+    "id": 2
+  }
+]
